@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "673678106630",
+    "project_id": "stabrak-61041",
+    "storage_bucket": "stabrak-61041.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:673678106630:android:be955dee93ee8778faa387",
+        "android_client_info": {
+          "package_name": "com.example.amazon_stabrak"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB-gYW6ceRolFN59uXpCVo8BmJIeZWFQ3Y"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
